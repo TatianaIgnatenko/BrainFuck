@@ -19,7 +19,7 @@ public class Program
 
     public int getCommand()
     {
-        if(pointer > 0 && pointer < program.size())
+        if(pointer >= 0 && pointer < program.size())
         {
             return program.get(pointer);
         }

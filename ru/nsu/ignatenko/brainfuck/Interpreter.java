@@ -15,6 +15,7 @@ public class Interpreter
         while(command != null)
         {
             command.perform(memory, program);
+            program.increasePtr();
             command = getCommand(program);
         }
     }
@@ -28,6 +29,7 @@ public class Interpreter
         {
             Interpreter interpreter = new Interpreter(args[0]);
             interpreter.run(new Program(args[1]));
+
         }
         catch(Exception e)
         {
