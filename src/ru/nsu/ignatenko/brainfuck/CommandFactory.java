@@ -15,6 +15,7 @@ public class CommandFactory
     {
         FileInputStream fin = new FileInputStream(filename);
         fullNamesOfClasses.load(fin);
+        fin.close();
     }
 
     public Command create(int command) throws Exception

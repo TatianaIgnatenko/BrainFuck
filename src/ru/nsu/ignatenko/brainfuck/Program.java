@@ -15,6 +15,7 @@ public class Program
         {
             program.add((byte)element);
         }
+        reader.close();
     }
 
     public int getCommand()
