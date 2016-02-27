@@ -1,0 +1,24 @@
+<project name="BrainFuck" default="all" >
+	<target name="mkdir" >
+		<mkdir dir="classes"/>
+	</target>
+
+	<path id="TestsClasspath">
+		<fileset dir="lib">
+			<include name="*.jar"/>
+		</fileset>
+	</path>
+
+	<target name="compile" depends="mkdir">
+		<javac includeantruntime="false" destdir="classes" classpathref="TestsClasspath">
+			<src path="src"/>
+			<src path="tests"/>
+		</javac>
+	</target>
+
+	<target name="all" depends="compile"/>
+
+	<target name="clean">
+		<delete dir="classes"/>
+	</target>
+</project>

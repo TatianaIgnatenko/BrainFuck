@@ -37,7 +37,7 @@ public class CommandFactory
                 String fullNameOfClass = fullNamesOfClasses.getProperty(new String(command_));
                 c = Class.forName(fullNameOfClass);
                 classesOfComands.put((byte)command, c);
-                return (Command) c.cast(c.newInstance());
+                return (Command) (c.newInstance());
             }
         }
     }

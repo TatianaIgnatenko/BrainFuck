@@ -1,8 +1,0 @@
-+ = "IncreaseElement";
-- = "DecreaseElement";
-> = "IncreasePtr";
-< = "DecreasePtr";
-[ = "BeginCycle";
-] = "EndCycle";
-. = "Print";
-, = "Read";
