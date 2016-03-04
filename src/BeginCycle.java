@@ -6,17 +6,17 @@ public class BeginCycle implements  Command
     {
         if(memory.getValue() == 0)
         {
-            int count_bracets = 1;
-            while(count_bracets != 0)
+            int count_brackets = 1;
+            while(count_brackets != 0)
             {
                 program.increasePtr();
                 if(program.getCommand() == ']')
                 {
-                    --count_bracets;
+                    --count_brackets;
                 }
                 else if(program.getCommand() == '[')
                 {
-                    ++count_bracets;
+                    ++count_brackets;
                 }
             }
         }

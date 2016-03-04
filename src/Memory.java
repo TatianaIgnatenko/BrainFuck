@@ -10,18 +10,22 @@ public class Memory
     {
         return mem[pointer];
     }
+
     public void setValue(byte val)
     {
         mem[pointer] = val;
     }
+
     public void increaseElement()
     {
         ++mem[pointer];
     }
+
     public void decreaseElement()
     {
         --mem[pointer];
     }
+
     public void increasePtr()
     {
         if(pointer == size - 1)
@@ -33,6 +37,7 @@ public class Memory
             ++pointer;
         }
     }
+
     public void decreasePtr()
     {
         if(pointer == 0)
