@@ -1,0 +1,1313 @@
+18:29:33,237 DEBUG main Interpreter:<init>:? - Created factory.
+18:29:33,237 DEBUG main Interpreter:run:? - Got program: hello.bf
+18:29:33,237 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,237 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,237 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,237 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,237 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,237 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,237 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,237 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,237 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,237 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,237 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,237 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,237 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,237 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,253 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,253 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,253 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,253 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,253 DEBUG main Interpreter:run:? - Got command: [
+18:29:33,253 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,253 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,253 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,253 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,253 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,253 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,253 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,253 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,253 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,253 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,253 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,253 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,253 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,253 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,253 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,253 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,253 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,253 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,253 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,253 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,253 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,253 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,253 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,253 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,253 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,253 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,253 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,253 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,253 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,253 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,253 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,253 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,253 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,253 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,253 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,253 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,253 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,253 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,253 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,253 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,253 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,253 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,253 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,253 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,269 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,269 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,269 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,269 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,269 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,269 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,269 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,269 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,269 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,269 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,269 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,269 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,269 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,300 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,331 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,331 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,331 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,331 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,331 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,331 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,331 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,331 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,331 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,331 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,331 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,331 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,331 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,331 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,331 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,331 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,331 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,331 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,331 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,331 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,331 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,331 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,331 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,331 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,331 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,331 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,331 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,331 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,331 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,331 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,331 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,331 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,331 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,331 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,331 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,331 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,331 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,331 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,331 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,331 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,331 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,331 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,331 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,331 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,347 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,347 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,347 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: .
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,362 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,362 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,362 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: [
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,378 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,378 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,378 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,393 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,393 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,393 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,409 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,409 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,409 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,440 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,440 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,440 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,440 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,440 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,440 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,440 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,440 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,440 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,440 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,440 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,440 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,440 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,440 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,440 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,440 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,440 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,440 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,440 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,440 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,440 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,440 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,440 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,440 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,440 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,440 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,440 DEBUG main Interpreter:run:? - Got command: .
+18:29:33,440 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,440 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,440 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,440 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,440 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,440 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,440 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,440 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,456 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,456 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,456 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,456 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,456 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,456 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: .
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: .
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: .
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: [
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,471 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,471 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,471 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: .
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: [
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: .
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: [
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,487 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,487 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,487 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: <
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: ]
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: .
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: .
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,503 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,503 DEBUG main Interpreter:run:? - Got command: .
+18:29:33,503 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: .
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: -
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: .
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: >
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: +
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
+18:29:33,518 DEBUG main Interpreter:run:? - Got command: .
+18:29:33,518 DEBUG main Interpreter:run:? - Performed command.
+18:29:33,518 DEBUG main Interpreter:run:? - Increased program pointer.
