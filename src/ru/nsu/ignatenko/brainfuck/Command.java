@@ -1,7 +1,7 @@
 package ru.nsu.ignatenko.brainfuck;
 
 /**
- * <p> A Command is responsible for performing commands. The class Command is an abstract class.</p>
+ * <p> A Command is responsible for performing commands.</p>
  *
  * @author Tatiana Ignatenko
  */

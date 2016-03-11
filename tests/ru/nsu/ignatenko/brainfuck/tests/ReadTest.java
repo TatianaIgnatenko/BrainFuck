@@ -26,7 +26,7 @@ public class ReadTest
         IncreasePtr command1 = new IncreasePtr();
         Read command2 = new Read();
         Memory memory = new Memory();
-        Program program = new Program("prog.txt");
+        Program program = new Program("resource/prog.txt");
 
         command2.perform(memory, program);
         assertEquals('H', memory.getValue());

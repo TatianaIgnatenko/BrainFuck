@@ -34,8 +34,8 @@ public class InterpreterTest
     @Test
     public void InterpreterTest() throws IOException
     {
-        Interpreter interpreter = new Interpreter("config.txt");
-        interpreter.run(new Program("hello.brainf2"));
+        Interpreter interpreter = new Interpreter("resource/config.txt");
+        interpreter.run(new Program("resource/hello.bf"));
         assertEquals("Hello, World!", outContent.toString());
 
     }

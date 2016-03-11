@@ -16,7 +16,7 @@ public class DecreaseElementTest
     {
         DecreaseElement command = new DecreaseElement();
         Memory memory = new Memory();
-        Program program = new Program("prog.txt");
+        Program program = new Program("resource/prog.txt");
 
         assertEquals(0, memory.getValue());
         command.perform(memory, program);

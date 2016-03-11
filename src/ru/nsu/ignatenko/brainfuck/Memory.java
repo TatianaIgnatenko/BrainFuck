@@ -2,7 +2,7 @@ package ru.nsu.ignatenko.brainfuck;
 
 /**
  *
- * <p>A Memory manipulates (controls, manages) a block of memory.</p>
+ * <p>This class manipulates a block of memory.</p>
  *
  * @author Tatiana Ignatenko
  */

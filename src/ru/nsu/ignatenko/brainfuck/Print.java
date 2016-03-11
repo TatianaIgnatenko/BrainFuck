@@ -1,7 +1,7 @@
 package ru.nsu.ignatenko.brainfuck;
 
 /**
- * <p> A Print prints an element to which memory pointer points.</p>
+ * <p> A Print prints to standard output an element to which memory pointer points.</p>
  *
  * @author Tatiana Ignatenko
  */
@@ -19,7 +19,7 @@ public class Print implements  Command
     }
 
     /**
-     * <p> Prints an element to which memory pointer points.</p>
+     * <p> Prints to standard output an element to which memory pointer points.</p>
      *
      * @param memory the Memory Print manipulates.
      * @param program the Program Print ignores.

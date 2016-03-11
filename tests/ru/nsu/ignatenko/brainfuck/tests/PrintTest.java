@@ -34,7 +34,7 @@ public class PrintTest
         Command command2 = new IncreasePtr();
         Command command3 = new Print();
         Memory memory = new Memory();
-        Program program = new Program("prog.txt");
+        Program program = new Program("resource/prog.txt");
 
         for (int i = 0; i < 'H'; ++i)
         {

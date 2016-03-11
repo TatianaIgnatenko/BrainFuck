@@ -16,6 +16,10 @@ import org.apache.log4j.Logger;
 public class Program
 {
     final static Logger logger = Logger.getLogger(Program.class);
+
+    /**
+     *<p>The value that is returned  when the end of the program is reached.</p>
+     */
     public static final int END_OF_PROGRAM = -1;
     private ArrayList<Byte> program = new ArrayList<>();
     private int pointer = 0;
@@ -49,7 +53,7 @@ public class Program
      */
     public Program()
     {
-        name = "hello.bf";
+        name = "resource/hello.bf";
         try(Reader reader = new FileReader(name))
         {
             int element = 0;
@@ -60,18 +64,19 @@ public class Program
         }
         catch(IOException e)
         {
-            logger.error("It never happens.");
+            logger.fatal("That mustn't ever happen.");
+            throw new RuntimeException();
         }
     }
 
     /**
-     * <p> Returns the ASCII code of the command symbol to which the program pointer points
+     * <p> Returns the ASCII code of the symbol to which the program pointer points
      * or END_OF_PROGRAM if pointer points to the end of the program.</p>
      *
      * @return the ASCII code of the command symbol to which the program pointer points
      * or END_OF_PROGRAM if pointer points to the end of the program.
      */
-    public int getCommand()
+    public int getSymbol()
     {
         if(pointer >= 0 && pointer < program.size())
         {

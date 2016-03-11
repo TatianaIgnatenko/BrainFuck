@@ -1,7 +1,7 @@
 package ru.nsu.ignatenko.brainfuck;
 
 /**
- * <p> An IncreasePtr increases the pointer of memory it manipulates.</p>
+ * <p> An IncreasePtr increases the memory pointer of the given Memory.</p>
  *
  * @author Tatiana Ignatenko
  */
@@ -19,7 +19,7 @@ public class IncreasePtr implements  Command
     }
 
     /**
-     * <p>Increases the pointer of memory it manipulates.</p>
+     * <p>Increases the memory pointer of the given Memory.</p>
      *
      * @param memory the Memory IncreasePtr manipulates.
      * @param program the Program IncreasePtr ignores.

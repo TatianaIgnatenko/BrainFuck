@@ -5,7 +5,7 @@ import java.io.IOException;
 import org.apache.log4j.Logger;
 
 /**
- * <p> A Read reads a one symbol from input and writes down it
+ * <p> A Read reads a one symbol from standard input and writes down it
  * in the element to which memory pointer points.</p>
  *
  * @author Tatiana Ignatenko
@@ -25,8 +25,8 @@ public class Read implements  Command
     }
 
     /**
-     * <p> A Read reads a one symbol from input and writes down it
-     * in the element to which memory pointer points.</p>
+     * <p> A Read reads a one symbol from standard input and puts it
+     * into the element to which memory pointer points.</p>
      *
      * @param memory the Memory Read manipulates.
      * @param program the Program Read ignores.

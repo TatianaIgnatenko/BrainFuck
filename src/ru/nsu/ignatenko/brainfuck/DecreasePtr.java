@@ -1,7 +1,7 @@
 package ru.nsu.ignatenko.brainfuck;
 
 /**
- * <p> A DecreasePtr decreases the pointer of memory it manipulates.</p>
+ * <p> A DecreasePtr decreases the memory pointer of the given Memory.</p>
  *
  * @author Tatiana Ignatenko
  */
@@ -19,7 +19,7 @@ public class DecreasePtr implements  Command
     }
 
     /**
-     * <p>Decreases the pointer of memory it manipulates.</p>
+     * <p>Decreases the memory pointer of the given Memory.</p>
      *
      * @param memory the Memory DecreasePtr manipulates.
      * @param program the Program DecreasePtr ignores.

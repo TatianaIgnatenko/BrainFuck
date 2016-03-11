@@ -32,8 +32,8 @@ public class EndLoopTest
     @Test
     public void EndLoopTest() throws IOException
     {
-        Interpreter interpreter = new Interpreter("config.txt");
-        interpreter.run(new Program("hello.brainf2"));
+        Interpreter interpreter = new Interpreter("resource/config.txt");
+        interpreter.run(new Program("resource/hello.bf"));
         assertEquals("Hello, World!", outContent.toString());
 
     }

@@ -1,8 +1,0 @@
-+ = ru.nsu.ignatenko.brainfuck.IncreaseElement
-- = ru.nsu.ignatenko.brainfuck.DecreaseElement
-> = ru.nsu.ignatenko.brainfuck.IncreasePtr
-< = ru.nsu.ignatenko.brainfuck.DecreasePtr
-[ = ru.nsu.ignatenko.brainfuck.BeginCycle
-] = ru.nsu.ignatenko.brainfuck.EndCycle
-. = ru.nsu.ignatenko.brainfuck.Print
-, = ru.nsu.ignatenko.brainfuck.Read

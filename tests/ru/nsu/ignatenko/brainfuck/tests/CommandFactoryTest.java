@@ -16,7 +16,7 @@ public class CommandFactoryTest
     @Test
     public void CtorTest() throws IOException
     {
-        CommandFactory factory = new CommandFactory("config.txt");
+        CommandFactory factory = new CommandFactory("resource/config.txt");
         Command command = factory.create('+');
         assertEquals("ru.nsu.ignatenko.brainfuck.IncreaseElement", command.getClass().getName());
     }
@@ -30,11 +30,11 @@ public class CommandFactoryTest
     @Test
     public void CreateTest() throws IOException
     {
-            CommandFactory factory = new CommandFactory("config.txt");
+            CommandFactory factory = new CommandFactory("resource/config.txt");
             Command command = factory.create('+');
             assertEquals("ru.nsu.ignatenko.brainfuck.IncreaseElement", command.getClass().getName());
 
-            factory = new CommandFactory("bad_config.txt");
+            factory = new CommandFactory("resource/bad_config.txt");
             command = factory.create('+');
     }
 }

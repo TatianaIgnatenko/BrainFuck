@@ -32,8 +32,8 @@ public class BeginLoopTest
     @Test
     public void beginLoopTest() throws IOException
     {
-        Interpreter interpreter = new Interpreter("config.txt");
-        interpreter.run(new Program("hello.bf"));
+        Interpreter interpreter = new Interpreter("resource/config.txt");
+        interpreter.run(new Program("resource/hello.bf"));
         assertEquals("Hello, World!", outContent.toString());
 
     }

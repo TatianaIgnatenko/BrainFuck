@@ -2,8 +2,8 @@ package ru.nsu.ignatenko.brainfuck;
 
 /**
  * <p> An EndLoop checks the value of the element to which the memory pointer points.
- * If the value is not null then the program pointer decreases to the first instruction in the loop.
- * Otherwise the program pointer increases to the next instruction. </p>
+ * If the value is not zero then the program pointer moves to the first instruction in the loop.
+ * Otherwise the program pointer moves to the next instruction. </p>
  *
  * @author Tatiana Ignatenko
  */
@@ -22,8 +22,8 @@ public class EndLoop implements  Command
 
     /**
      * <p>Checks the value of the element to which the memory pointer points.
-     * If the value is not null then the program pointer decreases to the first instruction in the loop.
-     * Otherwise the program pointer increases to the next instruction. </p>
+     * If the value is not zero then the program pointer moves to the first instruction in the loop.
+     * Otherwise the program pointer moves to the next instruction. </p>
      *
      * @param memory the Memory EndLoop manipulates.
      * @param program the Program EndLoop manipulates.
@@ -36,11 +36,11 @@ public class EndLoop implements  Command
             while(count_brackets != 0)
             {
                 program.decreasePtr();
-                if(program.getCommand() == '[')
+                if(program.getSymbol() == '[')
                 {
                     --count_brackets;
                 }
-                else if(program.getCommand() == ']')
+                else if(program.getSymbol() == ']')
                 {
                     ++count_brackets;
                 }

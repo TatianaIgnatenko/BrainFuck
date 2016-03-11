@@ -18,7 +18,7 @@ public class IncreasePtrTest
         IncreaseElement command1 = new IncreaseElement();
         IncreasePtr command2 = new IncreasePtr();
         Memory memory = new Memory();
-        Program program = new Program("prog.txt");
+        Program program = new Program("resource/prog.txt");
 
         command1.perform(memory, program);
         assertEquals(1, memory.getValue());

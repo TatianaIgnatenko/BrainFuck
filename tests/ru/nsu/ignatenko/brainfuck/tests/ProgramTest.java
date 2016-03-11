@@ -12,8 +12,8 @@ public class ProgramTest
     @Test
     public void CtorTest() throws IOException
     {
-        Program program = new Program("prog.txt");
-        assertEquals('+', program.getCommand());
+        Program program = new Program("resource/prog.txt");
+        assertEquals('+', program.getSymbol());
      }
 
     @Test(expected = IOException.class)
@@ -23,38 +23,38 @@ public class ProgramTest
     }
 
     @Test
-    public void getCommandTest() throws IOException
+    public void getSymbolTest() throws IOException
     {
-        Program program = new Program("prog.txt");
-        assertEquals('+', program.getCommand());
+        Program program = new Program("resource/prog.txt");
+        assertEquals('+', program.getSymbol());
         program.decreasePtr();
-        assertEquals(-1, program.getCommand());
+        assertEquals(-1, program.getSymbol());
         program.increasePtr();
         program.increasePtr();
-        assertEquals('-', program.getCommand());
+        assertEquals('-', program.getSymbol());
     }
 
     @Test
     public void increasePtrTest() throws IOException
     {
-        Program program = new Program("prog.txt");
-        assertEquals('+', program.getCommand());
+        Program program = new Program("resource/prog.txt");
+        assertEquals('+', program.getSymbol());
         program.increasePtr();
-        assertEquals('-', program.getCommand());
+        assertEquals('-', program.getSymbol());
         program.increasePtr();
-        assertEquals(-1, program.getCommand());
+        assertEquals(-1, program.getSymbol());
     }
 
     @Test
     public void decreasePtrTest() throws IOException
     {
-        Program program = new Program("prog.txt");
-        assertEquals('+', program.getCommand());
+        Program program = new Program("resource/prog.txt");
+        assertEquals('+', program.getSymbol());
         program.increasePtr();
-        assertEquals('-', program.getCommand());
+        assertEquals('-', program.getSymbol());
         program.decreasePtr();
-        assertEquals('+', program.getCommand());
+        assertEquals('+', program.getSymbol());
         program.decreasePtr();
-        assertEquals(-1, program.getCommand());
+        assertEquals(-1, program.getSymbol());
     }
 }

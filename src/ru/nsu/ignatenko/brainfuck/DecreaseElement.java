@@ -1,7 +1,7 @@
 package ru.nsu.ignatenko.brainfuck;
 
 /**
- * <p> A DecreaseElement decreases the value of element to which memory pointer points. </p>
+ * <p> A DecreaseElement decreases the value of the element to which memory pointer points. </p>
  *
  * @author Tatiana Ignatenko
  */
@@ -19,7 +19,7 @@ public class DecreaseElement implements  Command
     }
 
     /**
-     * <p> Decreases the value of element to which memory pointer points. </p>
+     * <p> Decreases the value of the element to which memory pointer points. </p>
      *
      * @param memory the Memory DecreaseElement manipulates.
      * @param program the Program DecreaseElement ignores.
