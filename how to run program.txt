@@ -1,0 +1,5 @@
+
+ant run.program -Darg0="resource/name_of_program.bf" -Darg1="resource/name_of_config.txt"
+
+for example:
+ant run.program -Darg0="resource/hello.bf" -Darg1="resource/config.txt"
